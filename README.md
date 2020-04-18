@@ -1,2 +1,2 @@
-# data-structure-javascript
-Data structure implementation with JavaScript.
+# data-structures-javascript
+Data structures implementation with JavaScript.

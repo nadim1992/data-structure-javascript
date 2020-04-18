@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-javascript",
+  "version": "1.0.0",
+  "description": "Data structure implementation with JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadim1992/data-structures-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadim1992/data-structures-javascript/issues"
+  },
+  "homepage": "https://github.com/nadim1992/data-structures-javascript#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.9.5"
+  }
+}
