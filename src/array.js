@@ -1,7 +1,7 @@
 class TheArray {
     array = [];
 
-    construct(array) {
+    constructor(array = []) {
         this.array = array;
     }
 
@@ -38,6 +38,8 @@ class TheArray {
 
 // Example
 
+console.log('------>>>>- Array ----')
+
 const array = new TheArray();
 
 array.add(1);
@@ -63,3 +65,5 @@ array.print();
 array.remove(5);
 
 array.print();
+
+console.log('------<<<<-----');
